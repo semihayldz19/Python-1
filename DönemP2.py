@@ -47,3 +47,4 @@ plt.show()
 # R^2 skoru hesapla
 r2 = r2_score(Y_test, Y_test_pred)
 print("R^2 Skoru:", r2)
+
